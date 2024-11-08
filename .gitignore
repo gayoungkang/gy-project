@@ -1,0 +1,28 @@
+# Node.js 관련
+node_modules
+.next/
+out/
+dist/
+
+# 환경 변수 파일
+.env
+.env.development
+.env.production
+.env.test
+
+# 로그 파일
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS 및 편집기 관련 파일
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# local env files
+.env
+.env.development
+.env.test
+.env.production
